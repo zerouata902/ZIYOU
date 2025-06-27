@@ -48,7 +48,7 @@ document.getElementById("bookingForm").addEventListener("submit", function (e) {
 المستوى الدراسي: ${level}
 مكان السكن: ${location}`;
 
-  const whatsappNumber = "+212676826204"; // ← بدل برقم الواتساب ديال Ziyou
+  const whatsappNumber = "212676826204"; // ← بدل برقم الواتساب ديال Ziyou
   const encodedMsg = encodeURIComponent(message);
   const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodedMsg}`;
 
