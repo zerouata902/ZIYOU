@@ -865,7 +865,9 @@ strong {
   width: 90%;
   max-width: 420px;
   text-align: center;
- 
+  opacity: 0;
+  transform: translateY(60px);
+  transition: all 1s ease;
 
 }
 
