@@ -858,7 +858,7 @@ strong {
 }
 
 .form-box {
-  background: black;
+  background: rgb(0, 0, 0);
   padding: 30px;
   border-radius: 15px;
   box-shadow: 0 0 15px rgb(250, 250, 249);
